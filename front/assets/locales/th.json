@@ -1,0 +1,74 @@
+{
+  "dashboards": {
+    "title": "หน้าหลัก"
+  },
+  "menu": {
+    "dashboard": "แผงควบคุม",
+    "masterdata": "ข้อมูลหลัก",
+    "administrator": "ผู้ดูแลระบบ",
+    "coordinator": "ผู้ประสานงาน",
+    "owner": "ผู้เป็นเจ้าของ",
+    "reviewer": "ผู้ตรวจสอบ",
+    "approver": "ผู้อนุมัติ",
+    "import": "นำเข้าข้อมูล",
+    "group": "กลุ่มกฎหมาย",
+    "fileupload": "นำเข้าไฟล์ข้อมูล",
+    "languageupload": "นำเข้าภาษา"
+  },
+  "category": {
+    "name": "ชื่อหมวดหมู่",
+    "legalduty": "หน้าที่ตามกฎหมาย",
+    "status": "สถานะ",
+    "management": "จัดการ"
+  },
+  "compliance": {
+    "category": "หมวดหมู่",
+    "legalname": "ชื่อกฎหมาย",
+    "publicdate": "วันที่ประกาศ",
+    "effectivedate": "วันที่ผลบังคับใช้",
+    "department": "หน่วยงาน",
+    "ministry": "กระทรวง",
+    "important": "สาระสำคัญกฎหมาย",
+    "legalduty": "หน้าที่ตามกฎหมาย",
+    "status": "สถานะ",
+    "management": "จัดการ"
+  },
+  "group": {
+    "name": "ชื่อกลุ่มกฎหมาย",
+    "assignto": "จัดกลุ่ม",
+    "add": "เพิ่มกลุ่มกฎหมาย",
+    "department": "หน่วยงาน",
+    "admin": "ผู้ดูแล",
+    "management": "จัดการ"
+  },
+  "language": {
+    "add": "เพิ่มภาษา",
+    "name": "ชื่อ",
+    "code": "รหัสภาษา",
+    "management": "จัดการ"
+  },
+  "buttons": {
+    "save": "บันทึก",
+    "delete": "ลบ",
+    "close": "ปิด",
+    "back": "ย้อนกลับ",
+    "upload": {
+      "template": "นำเข้าข้อมูล",
+      "file": "นำเข้าไฟล์"
+    },
+    "category": {
+      "edit": "แก้ไขหมวดหมู่",
+      "add": "เพิ่มหมวดหมู่",
+      "delete": "ลบหมวดหมู่"
+    },
+    "compliance": {
+      "add": "เพิ่มข้อกฎหมาย"
+    }
+  },
+  "message": {
+    "delete": {
+      "confirm": "ยืนยันการลบ",
+      "description": "ต้องการลบใช่หรือไม่"
+    }
+  }
+}
